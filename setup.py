@@ -33,7 +33,7 @@ setup(
         'yt-dlp',
         'torch', 
         'torchaudio',
-        'protobuf==3.20.0',
+        'protobuf==3.20.2',
         'langchain',
         'moviepy',
         'termcolor',
